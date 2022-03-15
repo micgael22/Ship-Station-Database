@@ -47,5 +47,3 @@ Customer ID, company name, contact name, contact title, address, city, region, p
 Customer demographics:
 Table describes the type of product that was purchase by which customer.
 Customer Description and customer ID.
-
-[Ship station 1.docx](https://github.com/micgael22/Ship-Station-Database/files/8255711/Ship.station.1.docx)
