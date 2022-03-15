@@ -1,10 +1,10 @@
 # Ship-Station-Database
 
-##This is a shipping company named Ship Station.
-##Ship Station helps other companies/businesses in South-Africa to import products from all over the world at a fast pace.
-##This shipping company will deliver products no matter how small or big the scale of the order is.
+This is a shipping company named Ship Station.
+Ship Station helps other companies/businesses in South-Africa to import products from all over the world at a fast pace.
+This shipping company will deliver products no matter how small or big the scale of the order is.
 
-###This relational database management systems should have the following attributes:
+This relational database management systems should have the following attributes:
 
 Employees table:
 Provides personal details about each employee.
