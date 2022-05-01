@@ -47,3 +47,16 @@ Customer ID, company name, contact name, contact title, address, city, region, p
 Customer demographics:
 Table describes the type of product that was purchase by which customer.
 Customer Description and customer ID.
+
+## Screenshots of Database:
+### Diagram
+<img align="center" width="750" height="500" src="https://user-images.githubusercontent.com/88590240/166157337-379a435f-a08f-4582-9882-00ee00d9622a.png">
+
+### Insert
+<img align="center" width="640" height="500" src="https://user-images.githubusercontent.com/88590240/166157707-d252952a-753a-4bd4-a4b3-0ae4378cf809.png">
+
+### Joins
+<img align="center" width="640" height="500" src="https://user-images.githubusercontent.com/88590240/166157428-5e1d1f53-4ef3-4d28-bcab-d34ec5664afb.png">
+
+### Employees Table
+<img align="center" width="640" height="500" src="https://user-images.githubusercontent.com/88590240/166157501-4624c6f2-176d-4abf-8b02-1f416e790a9d.png">
